@@ -36,7 +36,7 @@ on:
       MAKEFILE_NAME:
         description: 'MAKEFILE_NAME'
         required: true
-        default: 'omni_BBL7516A'
+        default: 'omni_GIONEE_BBL7516A'
       BUILD_TARGET:
         description: 'BUILD_TARGET'
         required: true
